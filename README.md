@@ -1,5 +1,5 @@
-# Flexbox Starter #2
-## Skillcrush lesson on centering content with Flexbox
+# Centering With Flexbox Starter #2
+## 2nd Skillcrush lesson on centering content with Flexbox
 ### View the [live project here.](https://kirstendarling.github.io/skillcrush-center-flexbox-starter-2/)
 
 ### Screenshot
